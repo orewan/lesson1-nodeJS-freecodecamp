@@ -1,0 +1,1 @@
+eehere is the result : Hello this is the first text file +' lala ' + Hello this is the second text filehere is the result : Hello this is the first text file +' lala ' + Hello this is the second text filehere is the result : Hello this is the first text file +' lala ' + Hello this is the second text file
