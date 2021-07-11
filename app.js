@@ -12,9 +12,12 @@
 // manual approach (create package.json in the root, create properties etc)
 // npm init (step by step, prss enter to skip)
 // npm init -y (everything by default)
-
+/*
 const _ = require('lodash');
 
 const items    = [1, [2, [3,[4]]]];
 const newItems = _.flattenDeep(items);
 console.log(newItems);
+
+*/
+require('./12-http')

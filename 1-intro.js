@@ -14,5 +14,5 @@ console.log("hey it's my first application");
 
 console.log(__dirname);
 setInterval(()=>{
-    console.log('hello');
-},1000);
+    console.log('Ethan le BG');
+},4000);
